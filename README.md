@@ -172,4 +172,4 @@ openpyxl
 MSc Data Science & Analytics — Jain University, Bengaluru |
 BSc Statistics — MG University, Kerala
 
-[LinkedIn](https://linkedin.com/in/milanmanoj28) | [GitHub](https://github.com/milanmanoj28-kl) | [Kaggle](https://kaggle.com/milanmanoj28)
+[LinkedIn](https://www.linkedin.com/in/milan-manoj-1a9a60274/) | [GitHub](https://github.com/milanmanoj28-kl) | [Kaggle](https://kaggle.com/milanmanoj28)
