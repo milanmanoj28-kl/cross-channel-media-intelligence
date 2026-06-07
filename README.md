@@ -169,7 +169,7 @@ openpyxl
 ## Author
 
 **Milan Manoj**
-MSc Data Science & Analytics — Jain University, Bengaluru
+MSc Data Science & Analytics — Jain University, Bengaluru |
 BSc Statistics — MG University, Kerala
 
 [LinkedIn](https://linkedin.com/in/milanmanoj28) | [GitHub](https://github.com/milanmanoj28-kl) | [Kaggle](https://kaggle.com/milanmanoj28)
