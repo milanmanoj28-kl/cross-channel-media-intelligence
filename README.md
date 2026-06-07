@@ -92,6 +92,12 @@ This project addresses that challenge directly:
 - **267 anomalous periods detected across 26 divisions** using Z-score flagging (|Z| > 2) — the majority of anomalies align with Q4 seasonal spikes, validating the detection methodology against known demand patterns
 - **Division C and N show near-zero Google impressions** (0.4% and 0.0% SOV respectively) with 77%+ email dependency — a structurally different channel mix that warrants separate performance benchmarking from other divisions
 
+<img width="1476" height="726" alt="charts01_quarterly_sales_trend" src="https://github.com/user-attachments/assets/f6a38308-13f7-48fd-86af-4e253ab1da54" />
+
+<img width="1176" height="726" alt="charts02_channel_sov" src="https://github.com/user-attachments/assets/356acd69-c882-4e80-8b41-a95ca912aec8" />
+
+<img width="1923" height="726" alt="charts06_anomaly_overlay_divB" src="https://github.com/user-attachments/assets/f0710335-c2e7-4778-9ca0-13a31bb60e3c" />
+
 ---
 
 ## Tools & Technologies
